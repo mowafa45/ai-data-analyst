@@ -1,0 +1,61 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# Build outputs
+.next/
+out/
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Environment files — NEVER commit these
+.env
+.env.local
+.env.*.local
+*.env
+
+# Uploads — user data, never in git
+/tmp/uploads/
+uploads/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pip-log.txt
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/settings.json
+*.swp
+*.swo
+
+# Testing
+coverage/
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Docker volumes (local dev)
+postgres_data/
+redis_data/
+
+# ML model artifacts
+*.pkl
+*.joblib
+*.h5
+prophet_cache/
