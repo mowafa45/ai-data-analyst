@@ -167,10 +167,7 @@ railway up
 - [ ] Scheduled report emails
 - [ ] Role-based access control for shared workspaces
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Author
 
-Built by **[Your Name]** — [LinkedIn](#) · [Portfolio](#) · [GitHub](#)
+Built by **[Mohamed Wafa]** 
